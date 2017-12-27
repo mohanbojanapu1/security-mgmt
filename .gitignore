@@ -1,0 +1,5 @@
+.project
+target/
+.classpath
+.settings
+secure-id-web-java.log
